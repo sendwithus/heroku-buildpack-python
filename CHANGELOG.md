@@ -1,6 +1,6 @@
 # Python Buildpack Changelog
 
-## Unreleased
+## v175 (2020-08-04)
 
 - Update pip from 20.0.2 to 20.1.1 for Python 2.7 and Python 3.5+ (#1030).
 - Update setuptools from 39.0.1 to: (#1024)
